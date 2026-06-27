@@ -10,3 +10,19 @@
 
 ## Research
 - Conference Participation
+## Projects
+
+### Quantum Random Number Generator (QRNG)
+https://github.com/DHIVYAH7/QRNG_Project
+
+### Quantum Teleportation
+https://github.com/DHIVYAH7/Quantum_Teleportation
+
+### Bell State Project
+https://github.com/DHIVYAH7/Bell_State_Project
+
+### Deutsch-Jozsa Algorithm
+https://github.com/DHIVYAH7/Deutsch-Jozsa-Algorithm
+
+### Grover Search Algorithm
+https://github.com/DHIVYAH7/Grover_Search_Algorithm
